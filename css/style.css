@@ -1,0 +1,116 @@
+@charset "utf-8";
+body {
+    background-color: #f9f9f9;
+    text-align: start;
+}
+
+.container {
+    margin: 30px;
+}
+
+table#ap-table tr.content {
+    border-radius: 5px;
+    box-shadow: 0 2px 10px rgb(0 0 0 / 10%);
+}
+
+
+table#ap-table {
+    margin-top: 30px;
+    border-collapse: separate;
+    border-spacing: 0px 15px;
+}
+
+table#ap-table tr th {
+    text-align: start;
+}
+
+
+table#ap-table tr.content td button {
+    padding: 8px;
+    color: #FFFFFF;
+    border-radius: 6px;
+    border: unset;
+}
+
+table#ap-table tr.content td button.revisit-btn {
+    background-color: #0FC1D0;
+}
+
+table#ap-table tr.content td button.revisit-btn:hover {
+    background-color: #023973;
+	cursor: pointer;
+}
+
+table#ap-table tr.content td button.consult-btn {
+    background-color: #05C11B;
+}
+table#ap-table tr.content td button.consult-btn:hover {
+    background-color: #1B7401;
+	cursor: pointer;
+}
+
+table#ap-table tr.content td button.follow-up-btn {
+    background-color: #FFA500; /* Orange for follow-up */
+}
+
+table#ap-table tr.content td button.follow-up-btn:hover {
+    background-color: #FF8C00; /* Darker orange on hover */
+    cursor: pointer;
+}
+
+table#ap-table tr.content td button.check-up-btn {
+    background-color: #ff1eff; /* Dodger Blue for check-up */
+}
+
+table#ap-table tr.content td button.check-up-btn:hover {
+    background-color: #ab01ab; /* Darker blue on hover */
+    cursor: pointer;
+}
+
+
+table#ap-table tr.content td .user-info {
+    display: flex;
+}
+
+table#ap-table tr.content td .user-info .avator img {
+    width: 55px;
+    border: 3px solid #FFFFFF;
+    height: 55px;
+    border-radius: 50%;
+    box-shadow: 0 2px 5px rgb(0 0 0 / 10%);
+    margin-right: 15px;
+    object-fit: cover;
+}
+
+
+table#ap-table tr.content td .user-info .user-profile .user-name {
+    font-size: 20px;
+    line-height: 22px;
+    font-weight: 600;
+}
+table#ap-table tr.content td .user-info .user-profile .user-text {
+    color: #D5D7D9;
+}
+.fw600 {
+    font-weight: 600;
+}
+.sm {
+    font-size: 12px;
+}
+
+a {
+    text-decoration: none;
+}
+a:link {
+    color: #029FCF;
+}
+a:visited {
+    color: #CDC7C7;
+}
+a:hover {
+    text-decoration: underline;
+    color: pink;
+}
+a:active {
+    color: #7F00C0;
+}
