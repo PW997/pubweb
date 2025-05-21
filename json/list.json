@@ -1,0 +1,146 @@
+[
+  {
+    "patient": {
+      "name": "Kiran Acharya",
+      "age": 28,
+      "gender": "Male",
+      "avatar": "man.jpg",
+      "email": "kiran.acharya@example.com"
+    },
+    "status": "Consult",
+    "appointment": {
+      "time": "06:00 PM",
+      "date": "2 Feb 2021"
+    },
+    "phone": "+91 9876543215",
+    "doctor": "Dr. Ananth"
+  },
+  {
+    "patient": {
+      "name": "John Doe",
+      "age": 30,
+      "gender": "Male",
+      "avatar": "man1.jpg",
+      "email": "john.doe@example.com"
+    },
+    "status": "Revisit",
+    "appointment": {
+      "time": "06:30 PM",
+      "date": "3 Feb 2021"
+    },
+    "phone": "+91 9876543216",
+    "doctor": "Dr. Ananth"
+  },
+  {
+    "patient": {
+      "name": "Alice Smith",
+      "age": 25,
+      "gender": "Female",
+      "avatar": "woman1.jpg",
+      "email": "alice.smith@example.com"
+    },
+    "status": "Follow-up",
+    "appointment": {
+      "time": "07:00 PM",
+      "date": "4 Feb 2021"
+    },
+    "phone": "+91 9876543217",
+    "doctor": "Dr. Johnson"
+  },
+  {
+    "patient": {
+      "name": "Bob Brown",
+      "age": 45,
+      "gender": "Male",
+      "avatar": "man2.jpg",
+      "email": "bob.brown@example.com"
+    },
+    "status": "Consult",
+    "appointment": {
+      "time": "08:00 PM",
+      "date": "5 Feb 2021"
+    },
+    "phone": "+91 9876543218",
+    "doctor": "Dr. Emily"
+  },
+  {
+    "patient": {
+      "name": "Catherine Green",
+      "age": 34,
+      "gender": "Female",
+      "avatar": "woman2.jpg",
+      "email": "catherine.green@example.com"
+    },
+    "status": "Initial Check-up",
+    "appointment": {
+      "time": "09:00 AM",
+      "date": "6 Feb 2021"
+    },
+    "phone": "+91 9876543219",
+    "doctor": "Dr. Smith"
+  },
+  {
+    "patient": {
+      "name": "David Wilson",
+      "age": 50,
+      "gender": "Male",
+      "avatar": "man3.jpg",
+      "email": "david.wilson@example.com"
+    },
+    "status": "Revisit",
+    "appointment": {
+      "time": "10:30 AM",
+      "date": "7 Feb 2021"
+    },
+    "phone": "+91 9876543220",
+    "doctor": "Dr. Lee"
+  },
+  {
+    "patient": {
+      "name": "Eva Adams",
+      "age": 29,
+      "gender": "Female",
+      "avatar": "woman3.jpg",
+      "email": "eva.adams@example.com"
+    },
+    "status": "Consult",
+    "appointment": {
+      "time": "11:00 AM",
+      "date": "8 Feb 2021"
+    },
+    "phone": "+91 9876543221",
+    "doctor": "Dr. Ananth"
+  },
+  {
+    "patient": {
+      "name": "Frank Miller",
+      "age": 40,
+      "gender": "Male",
+      "avatar": "man4.jpg",
+      "email": "frank.miller@example.com"
+    },
+    "status": "Follow-up",
+    "appointment": {
+      "time": "01:00 PM",
+      "date": "9 Feb 2021"
+    },
+    "phone": "+91 9876543222",
+    "doctor": "Dr. Johnson"
+  },
+  {
+    "patient": {
+      "name": "Grace Taylor",
+      "age": 32,
+      "gender": "Female",
+      "avatar": "woman4.jpg",
+      "email": "grace.taylor@example.com"
+    },
+    "status": "Consult",
+    "appointment": {
+      "time": "02:00 PM",
+      "date": "10 Feb 2021"
+    },
+    "phone": "+91 9876543223",
+    "doctor": "Dr. Emily"
+  }
+]
